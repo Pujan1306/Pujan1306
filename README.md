@@ -22,8 +22,8 @@ Building high-performance, real-time web architectures and currently expanding i
 ---
 
 ### 🧰 Tech Stack
-* **Languages & ML**: JavaScript, TypeScript, Python
+* **Languages**: JavaScript, TypeScript, Python
+* **Machine Learning**: PyTorch, Pandas, NumPy
 * **Web Development**: Next.js, React, Node.js, Express, Tailwind CSS
 * **Databases & Tools**: MongoDB, Git, Docker, Postman
-
 ---
