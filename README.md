@@ -17,7 +17,7 @@ Building high-performance, real-time web architectures and currently expanding i
 
 * **[Trellx](https://trelix-delta.vercel.app)**: Task management system built with Next.js & MongoDB. Reduced latency by 40% using WebSockets for 50+ concurrent users.
 * **[Codexa](https://codexa-frontend-8xj5.orrender.com)**: Real-time collaborative IDE featuring <100ms sync via Operational Transformation and isolated Docker execution.
-* **[Secreity](https://secretly-sooty.vercel.app)**: Anonymous messaging platform with <50ms delivery latency utilizing cryptographic routing.
+* **[Lernify](https://lernify-1.onrender.com)**: A modern learning platform that transforms study materials into interactive AI-powered tools.
 
 ---
 
