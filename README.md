@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Pujan Mestry!
+# 👋 Hi, I'm Pujan!
 
 Full-Stack Developer specializing in Next.js, Node.js, and scalable web architectures. Currently diving deep into Machine Learning to build intelligent, data-driven applications.
 
